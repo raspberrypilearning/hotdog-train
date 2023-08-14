@@ -202,3 +202,4 @@ Drag and drop these images into the `hotdog` class in your machine learning mode
 ![a picture of a hotdog](images/94.jpg)
 ![a picture of a hotdog](images/95.jpg)
 ![a picture of a hotdog](images/97.jpg)
+

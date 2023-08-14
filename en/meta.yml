@@ -1,6 +1,6 @@
-title: default-project-template
+title: Hotdog training images
 hero_image: images/banner.png
-description: default-project-template description
+description: a collection of images of hotdogs to train a machine learning model
 version: 4
 listed: false
 copyedit: false
